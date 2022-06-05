@@ -12,7 +12,7 @@ export const experienceData = [
         company: 'Starbucks',
         jobtitle: 'Software Engineer Intern',
         startYear: 'May 2021',
-        endYear: 'Aug 2020',
+        endYear: 'Aug 2021',
         details: 'Full-stack development experience involving all phases of SDLC – from requirement elicitation to product delivery.',
     },
     {
