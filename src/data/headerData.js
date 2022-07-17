@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/Suyog_Somesh_Halikar_Resume.pdf'
+import resume from '../assets/pdf/Suyog Halikar Resume.pdf'
 import photo from '../assets/jpeg/SuyogHalikar.jpg'
 
 export const headerData = {
