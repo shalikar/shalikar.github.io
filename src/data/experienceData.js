@@ -1,15 +1,15 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Starbucks',
-        jobtitle: 'Application Developer II',
+        company: 'Starbucks - Cloud & Mobile Apps Engineering',
+        jobtitle: 'Software Engineer ||',
         startYear: 'Feb 2022',
         endYear: 'Present',
-        details: 'Working on building large scale applications by applying concepts of analyzing and classifying to solve real world problems.'
+        details: 'Working on building large-scale applications to solve real-world problems in Global Store Development domain.'
     },
     {
         id: 2,
-        company: 'Starbucks',
+        company: 'Starbucks - Cloud & Mobile Apps Engineering',
         jobtitle: 'Software Engineer Intern',
         startYear: 'May 2021',
         endYear: 'Aug 2021',
@@ -17,15 +17,15 @@ export const experienceData = [
     },
     {
         id: 3,
-        company: 'Arizona State University',
+        company: 'Arizona State University - University Technology Office',
         jobtitle: 'Web Developer',
         startYear: 'May 2020',
         endYear: 'Dec 2021',
-        details: 'Created interactive and responsive web application to determine what trainings a new ASU employee should undergo based on the job function.'
+        details: 'Created interactive and responsive web application to determine training curriculum for new ASU employees based on their job functions.'
     },
     {
         id: 4,
-        company: 'Mediaocean',
+        company: 'Mediaocean - Global Plans (Lumina) Tech Team',
         jobtitle: 'Software Developer',
         startYear: 'July 2017',
         endYear: 'Dec 2019',
