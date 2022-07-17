@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c43c1e36.chunk.css",
-    "main.js": "/static/js/main.20b56b75.chunk.js",
-    "main.js.map": "/static/js/main.20b56b75.chunk.js.map",
+    "main.js": "/static/js/main.2fd0185f.chunk.js",
+    "main.js.map": "/static/js/main.2fd0185f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c37d3184.js",
     "runtime-main.js.map": "/static/js/runtime-main.c37d3184.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -15,8 +15,8 @@
     "static/css/main.c43c1e36.chunk.css.map": "/static/css/main.c43c1e36.chunk.css.map",
     "static/js/2.de9aa615.chunk.js.LICENSE.txt": "/static/js/2.de9aa615.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
+    "static/media/Suyog Halikar Resume.aa2b8575.pdf": "/static/media/Suyog Halikar Resume.aa2b8575.pdf",
     "static/media/SuyogHalikar.f99484fa.jpg": "/static/media/SuyogHalikar.f99484fa.jpg",
-    "static/media/Suyog_Somesh_Halikar_Resume.7bc6a651.pdf": "/static/media/Suyog_Somesh_Halikar_Resume.7bc6a651.pdf",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/static/media/after-effects.3c076652.svg",
@@ -157,6 +157,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.de9aa615.chunk.js",
     "static/css/main.c43c1e36.chunk.css",
-    "static/js/main.20b56b75.chunk.js"
+    "static/js/main.2fd0185f.chunk.js"
   ]
 }
